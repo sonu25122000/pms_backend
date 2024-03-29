@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx dist/index.js",
+    "build": "next build",
     "start": "node dist/index.js",
     "dev": "nodemon app/index.ts"
   },
